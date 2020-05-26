@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `JavaScript Notes by Dennis Morello`,
-    name: `Dennis Morello`,
-    siteUrl: `https://morello.dev`,
-    description: `Notes about JavaScript, ReactJS and more about front-end development by Dennis Morello.`,
+    title: `Facebook Ads API Analysis`,
+    name: `vavesparashar`,
+    siteUrl: `https://projectelections.com`,
+    description: `Notes about Facebook API, Political Actors and more about Goverment Policies by vavesparashar.`,
     hero: {
       heading: `Notes about <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="background-color:#edd53f;color:#252724">JavaScript</a>, <a href="https://reactjs.org" target="_blank" rel="noreferrer" style="background-color:#282c34;color:#61dafb">ReactJS</a> and more by Dennis Morello.`,
       maxWidth: 652
@@ -11,7 +11,7 @@ module.exports = {
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/dennismorello`
+        url: `https://twitter.com/vavesparashar`
       },
       {
         name: `github`,
@@ -19,11 +19,11 @@ module.exports = {
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/dennismrl`
+        url: `https://instagram.com/vavesparashar`
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/in/dennismorello`
+        url: `https://www.linkedin.com/in/vavesparashar`
       }
     ]
   },
