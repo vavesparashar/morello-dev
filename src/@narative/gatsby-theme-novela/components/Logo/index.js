@@ -5,7 +5,7 @@ const Logo = ({ fill = "white" }) => {
   return (
     <LogoContainer>
       <h3 style={{ color: fill }}>
-        morello<span style={{ color: "#7A8085" }}>.dev</span>
+        Project<span style={{ color: "#7A8085" }}>.Elections</span>
       </h3>
     </LogoContainer>
   );
