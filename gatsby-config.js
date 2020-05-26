@@ -52,7 +52,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `JavaScript Notes by Dennis Morello`,
+        name: `Facebook API Notes by vavesparashar`,
         short_name: `JS Notes`,
         start_url: `/`,
         background_color: `#fff`,
