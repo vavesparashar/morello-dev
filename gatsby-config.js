@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://projectelections.com`,
     description: `Notes about Facebook API, Political Actors and more about Goverment Policies by vavesparashar.`,
     hero: {
-      heading: `Notes about <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="background-color:#edd53f;color:#252724">JavaScript</a>, <a href="https://reactjs.org" target="_blank" rel="noreferrer" style="background-color:#282c34;color:#61dafb">ReactJS</a> and more by Dennis Morello.`,
+      heading: `Notes about <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="background-color:#edd53f;color:#252724">Facebook API</a>, <a href="https://reactjs.org" target="_blank" rel="noreferrer" style="background-color:#282c34;color:#61dafb">Political Actors</a> and more by vavesparashar.`,
       maxWidth: 652
     },
     social: [
